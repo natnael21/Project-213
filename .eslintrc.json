@@ -1,0 +1,11 @@
+{
+  "root": true,
+  "env": {
+    "es2022": true
+  },
+  "ignorePatterns": [
+    "dist",
+    ".turbo",
+    "node_modules"
+  }
+}

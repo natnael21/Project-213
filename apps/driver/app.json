@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Driver",
+    "slug": "driver",
+    "scheme": "driver",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
